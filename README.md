@@ -1,6 +1,12 @@
+<br/>
+<div align="center">
+  <h3 align="center">CS50 Finance</h3>
+  <p align="center"><i>A web app for managing a stock portfolio, making transactions, and checking real-time stock prices</i></p>
+    <img width="819" alt="Screenshot" src="https://github.com/ArcticKangaroo/CS50-Finance/assets/62847649/94e8eb81-0ec1-464e-b3aa-24df1a8eec46">
+</div>
+
 ### About
-<img width="819" alt="screenshot" src="https://github.com/ArcticKangaroo/CS50-Finance/assets/62847649/94e8eb81-0ec1-464e-b3aa-24df1a8eec46">
-A web app for managing a stock portfolio, making transactions, and checking real-time stock prices using the IEX API.
+A web app for managing a stock portfolio, making transactions, and checking real-time stock prices.
 
 #### Register
 Allow a new user to register for an account, rendering an apology view if the form data is incomplete or if the username already exists in the database.
